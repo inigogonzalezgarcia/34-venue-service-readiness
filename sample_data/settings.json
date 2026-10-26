@@ -1,0 +1,43 @@
+{
+  "organisation": "Solenne Beach Club & Hotel",
+  "as_of": "2026-10-26 09:30",
+  "horizon_days": 7,
+  "check_kinds": [
+    "restaurant",
+    "bar",
+    "pool",
+    "event",
+    "hotel"
+  ],
+  "check_window_hours": 6,
+  "check_lead_hours": 3,
+  "duty_min_guests": 150,
+  "heartbeat_hours": 24,
+  "freeze_hours": 24,
+  "guests_per_till": 40,
+  "food_kinds": [
+    "restaurant",
+    "pool",
+    "event"
+  ],
+  "room_charge_kinds": [
+    "restaurant",
+    "bar",
+    "pool"
+  ],
+  "cash_float_min": 300,
+  "cash_full_pct": 85,
+  "pms_queue_max": 10,
+  "stb_offline_max": 2,
+  "contract_warn_days": 60,
+  "repeat_incidents": 3,
+  "incident_window_days": 60,
+  "owners": {
+    "services": "Venue IT manager",
+    "pos": "POS vendor",
+    "network": "Network provider",
+    "guest": "Front office systems",
+    "vendors": "Venue IT manager",
+    "incidents": "Venue IT manager"
+  }
+}
