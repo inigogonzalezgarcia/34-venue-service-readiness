@@ -1,0 +1,27 @@
+Ticket,Opened,Closed,Outlet,Device,Category,Minutes lost,Summary
+INC7300,2026-09-06 01:30,2026-09-06 01:50,Hotel,,IPTV,0,TV in a guest room stuck on the welcome screen
+INC7301,2026-09-17 01:30,2026-09-17 02:05,Pool Club,,Card payments,0,Card terminal low battery mid-service
+INC7302,2026-09-18 21:30,2026-09-19 01:30,Sunset Bar,CT-B2,Card payments,30,Card terminal 2 frozen during the busiest hour
+INC7303,2026-09-21 04:30,2026-09-21 04:50,Restaurant,,Kitchen printing,5,Kitchen printer out of paper during service
+INC7304,2026-09-26 01:30,2026-09-26 02:05,Pool Club,,Card payments,15,Card terminal low battery mid-service
+INC7305,2026-09-27 05:30,2026-09-27 06:20,Hotel,,Key cards,0,Key card not opening the door; re-encoded
+INC7306,2026-09-27 06:30,2026-09-27 07:05,Hotel,,IPTV,0,TV in a guest room stuck on the welcome screen
+INC7307,2026-09-30 04:30,2026-09-30 05:05,Hotel,,Key cards,5,Key card not opening the door; re-encoded
+INC7308,2026-09-30 23:30,2026-10-01 01:30,Pool Club,CASH-P1,Cash machine,15,Coin hopper jammed
+INC7309,2026-10-01 05:30,2026-10-01 05:50,Restaurant,,Kitchen printing,10,Kitchen printer out of paper during service
+INC7310,2026-10-04 17:30,2026-10-04 20:30,Sunset Bar,CT-B2,Card payments,15,Card terminal 2 rejecting contactless; restarted
+INC7311,2026-10-07 04:30,2026-10-07 04:50,Sunset Bar,,Till,5,Till slow to print the bill; restarted
+INC7312,2026-10-10 13:30,2026-10-10 15:06,Venue,WAN-1,Internet,95,"Fibre cut by roadworks; failover to 4G worked, slow card payments for 95 minutes"
+INC7313,2026-10-13 21:30,2026-10-13 22:30,Venue,PMS-IF,Room charges,40,"Room charges not posting to the PMS; interface restarted, 23 charges posted by hand"
+INC7314,2026-10-14 00:30,2026-10-14 01:20,Restaurant,,Handheld,5,Handheld not syncing the menu after a price change
+INC7315,2026-10-16 00:30,2026-10-16 02:00,Sunset Bar,,Till,15,Till slow to print the bill; restarted
+INC7316,2026-10-16 19:30,2026-10-16 21:00,Sunset Bar,CT-B2,Card payments,20,Card terminal 2 lost its connection to the till
+INC7317,2026-10-18 01:30,2026-10-18 02:30,Sunset Bar,CASH-B1,Cash machine,10,Note stacker full during service
+INC7318,2026-10-19 17:30,2026-10-19 19:30,Pool Club,AP-P3,Wi-Fi,35,Handhelds dropping by the sun loungers; access point rebooted
+INC7319,2026-10-21 10:00,,Venue,WAN-2,Internet,0,Backup 4G router not reachable; failover test failed
+INC7320,2026-10-23 03:30,2026-10-23 04:20,Restaurant,,Handheld,0,Handheld not syncing the menu after a price change
+INC7321,2026-10-23 15:30,,Hotel,STB-114,IPTV,0,Guest reports no TV channels in room 114
+INC7322,2026-10-24 17:30,2026-10-25 03:30,Pool Club,AP-P3,Wi-Fi,20,Access point by the sun loungers offline; PoE port reset
+INC7323,2026-10-25 13:18,,Pool Club,HH-P3,Handheld,0,Handheld does not power on after charging; swapped with a till for the afternoon
+INC7324,2026-10-25 15:45,,Pool Club,KP-P1,Kitchen printing,25,Beach kitchen printer in error (paper cutter); orders taken to the kitchen by hand
+INC7325,2026-10-26 08:12,,Sunset Bar,CT-B2,Card payments,10,Card terminal 2 offline at the end of the night; payments moved to terminal 1

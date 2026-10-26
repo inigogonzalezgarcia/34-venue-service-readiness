@@ -1,0 +1,18 @@
+Service ID,Outlet,Service,Type,Start,End,Guests,IT on duty,Opening check
+S01,Restaurant,Breakfast,restaurant,2026-10-26 07:30,2026-10-26 11:00,46,IT technician,2026-10-26 07:05
+S02,Pool Club,Pool club · lunch,pool,2026-10-26 12:00,2026-10-26 18:00,240,IT technician,
+S03,Hotel,Arrivals,hotel,2026-10-26 14:00,2026-10-26 22:00,18,Front office · IT on call,
+S04,Sunset Bar,Sunset sessions,bar,2026-10-26 18:00,2026-10-27 01:00,260,,
+S05,Restaurant,Dinner,restaurant,2026-10-26 20:00,2026-10-26 23:30,110,IT on call,
+S06,Restaurant,Breakfast,restaurant,2026-10-27 07:30,2026-10-27 11:00,40,IT technician,
+S07,Pool Club,Pool club · lunch,pool,2026-10-27 12:00,2026-10-27 18:00,160,IT technician,
+S08,Restaurant,Dinner,restaurant,2026-10-27 20:00,2026-10-27 23:30,90,IT on call,
+S09,Pool Club,Pool club · lunch,pool,2026-10-28 12:00,2026-10-28 18:00,150,IT technician,
+S10,Restaurant,Dinner,restaurant,2026-10-28 20:00,2026-10-28 23:30,80,IT on call,
+S11,Sunset Bar,Sunset sessions,bar,2026-10-29 18:00,2026-10-30 01:00,220,IT on call,
+S12,Hotel,Arrivals,hotel,2026-10-30 14:00,2026-10-30 22:00,22,Front office · IT on call,
+S13,Restaurant,Dinner,restaurant,2026-10-30 20:00,2026-10-30 23:30,130,IT on call,
+S14,Restaurant,Dinner,restaurant,2026-10-31 20:00,2026-10-31 23:30,140,IT on call,
+S15,Pool Club,Halloween night,event,2026-10-31 22:00,2026-11-01 04:00,900,,
+S16,Restaurant,Sunday brunch,restaurant,2026-11-01 11:00,2026-11-01 15:00,120,IT technician,
+S00,Pool Club,Pool club · lunch,pool,2026-10-25 12:00,2026-10-25 18:00,280,IT technician,2026-10-25 10:40
