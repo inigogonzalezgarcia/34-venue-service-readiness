@@ -151,7 +151,7 @@ GitHub Actions runs them on Python 3.10 and 3.12 on every push, then rebuilds th
 Built from my work in IT for hospitality and retail:
 
 - supporting POS systems (ICG, HIOPOS, CashDro cash machines), hotel PMS and IPTV for hospitality clients;
-- around 200 store pre-openings in luxury retail, including one where the connection failed two hours before the doors opened;
+- around 200 pre-openings of luxury brand corners in department stores, including one where the connection failed two hours before opening;
 - managing connectivity, hardware and service vendors, their SLAs and contracts.
 
 Written from scratch with fictional data; no employer data, systems or exports are used.
